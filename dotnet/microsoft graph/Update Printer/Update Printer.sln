@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Update Printer", "Update Printer\Update Printer.csproj", "{BDC17DBD-5E33-490E-94D5-9454173471AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDC17DBD-5E33-490E-94D5-9454173471AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDC17DBD-5E33-490E-94D5-9454173471AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDC17DBD-5E33-490E-94D5-9454173471AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDC17DBD-5E33-490E-94D5-9454173471AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {74D4FE34-6CEF-4BA3-9521-9BA531BCFCF6}
+	EndGlobalSection
+EndGlobal
